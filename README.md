@@ -1,14 +1,12 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy-do-projeto">Deploy do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-crédito-ao-autor">Crédito ao Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;  
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
   </p>
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-</p>
 
 <br>
 
@@ -30,6 +28,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Construção de uma calculadora simples.
 
+- Status do Projeto: Concluído :heavy_check_mark:
+
+## 👀 Deploy do Projeto
+
+Você pode acessar o projeto através deste [link](https://stupefied-perlman-17e3ac.netlify.app/).
+
 ## 🙋 Crédito ao autor
 
 Infográfico vetor criado por [vectorjuice](https://br.freepik.com/vetores-gratis/icone-de-web-dos-desenhos-animados-de-balanco-processo-contabil-analista-financeiro-ferramentas-de-calculo-ideia-de-consultoria-financeira-servico-de-contabilidade-ilustracao-vetorial-de-metafora-de-conceito-isolado_12083307.htm#position=0).
@@ -47,3 +51,16 @@ Infográfico vetor criado por [vectorjuice](https://br.freepik.com/vetores-grati
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+The MIT License (MIT)
+Copyright © 2021 PRISCILA PATRICIO
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
